@@ -1,0 +1,14 @@
+Your API: key - Host
+
+
+
+Software
+Go to the: C:\Windows\System32\drivers\etc\ directory and find the file <b>hosts</b>.
+
+Open it with Notepad and add the following line to the very end of the document: 190.115.18.181 sms-activate.ru Save.
+
+For more details about how to configure the API and the hosts file, check the FAQ
+API URL: https://vakfold.net/stubs/handler_api.php
+valid requests: GET - POST
+
+In all requests must contain an API key in the form, as parameter "api_key"
