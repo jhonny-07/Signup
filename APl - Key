@@ -1,4 +1,6 @@
-[Your API: key - Host](URL)/e0af65de55146a07f218d104c64b8084
+Your API/ key/ - / Host = { 
+
+(e0af65de55146a07f218d104c64b8084)
 
 
 Software:
@@ -12,3 +14,5 @@ API URL: https://vakfold.net/stubs/handler_api.php
 valid requests: GET - POST
 
 In all requests must contain an API key in the form, as parameter "api_key"
+}
+;
