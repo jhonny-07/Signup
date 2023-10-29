@@ -1,9 +1,9 @@
-Your API: key - Host
+[Your API: key - Host](URL)/e0af65de55146a07f218d104c64b8084
 
 
+Software:
 
-Software
-Go to the: C:\Windows\System32\drivers\etc\ directory and find the file <b>hosts</b>.
+Go to the: C:\Windows\System32\drivers\etc\directory and find the file <b>hosts</b>.
 
 Open it with Notepad and add the following line to the very end of the document: 190.115.18.181 sms-activate.ru Save.
 
