@@ -15,4 +15,5 @@ valid requests: GET - POST
 
 In all requests must contain an API key in the form, as parameter "api_key"
 }
+
 ;
