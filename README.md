@@ -6,7 +6,7 @@ To access our repositories, sign up for an Epic account at [UnrealEngine.com](ht
 
 After that, you can find our repositories here:
 
-*  [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-*  [Unreal Tournament](https://github.com/EpicGames/UnrealTournament)
+*  [Unreal Engine](https://www.unrealengine.com/en-US/uses/games)
+*  [Unreal Tournament](https://www.github.com/EpicGames/UnrealTournament)
   
 (Note that you must be signed into GitHub for these links to work.)
